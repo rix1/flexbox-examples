@@ -1,8 +1,8 @@
-# Flexbox examples 
+# Flexbox examples
 
 (For someone)
 
 Se bildet!
 
 
-![alt text](img.png "Se bilde")
+![alt text](vertical.png "Se bilde")
