@@ -2,7 +2,7 @@
 
 (For someone)
 
-Se bildet!
+Nå med blå linje!
 
 
-![alt text](vertical.png "Se bilde")
+![alt text](blue.png "Se bilde")
