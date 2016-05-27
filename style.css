@@ -20,10 +20,14 @@ html, body{
     align-items: stretch;
 }
 
+.container .box:first-child{
+    border-right: 3px solid blue;
+}
+
 .box{
     background-color: gray;
     padding: 10px;
-    border: 2px solid gold;
+    /*border: 2px solid gold;*/
     width: 100%;
     align-items: center;
     display: flex;
